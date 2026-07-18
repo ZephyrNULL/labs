@@ -28,5 +28,3 @@ You will need a C compiler (like `gcc`) installed on your system.
 ### Compilation & Execution
 To compile a specific lab file, navigate to its directory and run:
 
-```bash
-gcc -o lab_program filename.c
